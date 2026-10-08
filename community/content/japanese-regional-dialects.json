@@ -376,5 +376,12 @@
   "english": "very",
   "region": "Kansai",
   "note": "Now used nationwide. (Set 4)"
+},
+{
+  "dialect": "ぶち",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Yamaguchi/Hiroshima",
+  "note": "Regional intensifier. (Set 5)"
 }
 ]
